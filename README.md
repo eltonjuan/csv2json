@@ -1,0 +1,1 @@
+This repository contains an example implementation of the wonderful [csv2json](https://www.npmjs.com/package/csv2json) package for a class I was instructing. 
